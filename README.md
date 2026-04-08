@@ -6,7 +6,7 @@ Aplicação web desenvolvida em React que permite buscar usuários do GitHub e e
 
 ## 🚀 Demonstração
 
-👉 https://github-user-search.vercel.app
+👉 github-user-search-lime-nine.vercel.app
 
 ---
 
